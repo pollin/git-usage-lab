@@ -1,1 +1,3 @@
 This is a simple letter
+This is another piece of text addes
+hello
