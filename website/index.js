@@ -5,7 +5,7 @@ function greetLoginUser(name){
 }
 
 function byeLoginUser(name){
-  return "Bye " + name "!" 
+  return "Bye " + name "! Have a great day!" 
 }
 
 
