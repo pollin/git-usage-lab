@@ -14,3 +14,6 @@ function today(){
 }
 
 
+function unexpectedExitAlert(){
+ alert('You are exiting of the session, without closing the session');
+}
