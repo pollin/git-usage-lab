@@ -1,4 +1,0 @@
-This is a simple letter
-This is another piece of text addes
-hello world!
-Another modification of the document
