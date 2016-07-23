@@ -1,8 +1,6 @@
 //Function used whne the user connect or logged to the account
 function greetLoginUser(name){
-	
   return "Hi " + name + "!" 
-
 }
 
 //Function used when the user disconnect form its account
@@ -11,5 +9,8 @@ function byeLoginUser(name){
 }
 
 
+function today(){
+ return new Date();
+}
 
 
