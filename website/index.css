@@ -2,3 +2,8 @@
  color: white;
  background-color: black;
 }  
+
+.title{
+ color: green;
+ text-decoration: underline;
+}
